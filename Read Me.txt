@@ -1,0 +1,32 @@
+Hello,
+Here are the files included in the zip
+
+
+[In Root Folder]
+
+CipherOS.exe
+CipherOS.ini
+COSIcon.ico
+Read Me.txt
+CipherOS.frm
+frmStartMenu.grm
+modStartMenu.bas
+modTask.bas
+OnTopandINI.bas
+CipherOS.vbp
+
+[In GraySkin Folder]
+
+RunButton.bmp
+Background.jpg
+BackgroundDark.jpg
+ExpendMenu.gif
+ExpendMenu2.gif
+link_mid.gif
+link_right.gif
+link_title.gif
+link_top.gif
+
+
+Thank You
+Please vote :)
